@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 print ("Hello world")
 print ("Hello everybody")
+Hello
+Continiue my work
